@@ -1,0 +1,12 @@
+C:\Users\TOSHIBA\source\repos\ProductManagement\ProductManagement.DB\bin\Debug\netcoreapp3.1\ProductManagement.DB.deps.json
+C:\Users\TOSHIBA\source\repos\ProductManagement\ProductManagement.DB\bin\Debug\netcoreapp3.1\ProductManagement.DB.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\ProductManagement\ProductManagement.DB\bin\Debug\netcoreapp3.1\ProductManagement.DB.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\ProductManagement\ProductManagement.DB\bin\Debug\netcoreapp3.1\ProductManagement.DB.dll
+C:\Users\TOSHIBA\source\repos\ProductManagement\ProductManagement.DB\bin\Debug\netcoreapp3.1\ProductManagement.DB.pdb
+C:\Users\TOSHIBA\source\repos\ProductManagement\ProductManagement.DB\obj\Debug\netcoreapp3.1\ProductManagement.DB.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\ProductManagement\ProductManagement.DB\obj\Debug\netcoreapp3.1\ProductManagement.DB.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\ProductManagement\ProductManagement.DB\obj\Debug\netcoreapp3.1\ProductManagement.DB.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\ProductManagement\ProductManagement.DB\obj\Debug\netcoreapp3.1\ProductManagement.DB.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\ProductManagement\ProductManagement.DB\obj\Debug\netcoreapp3.1\ProductManagement.DB.dll
+C:\Users\TOSHIBA\source\repos\ProductManagement\ProductManagement.DB\obj\Debug\netcoreapp3.1\ProductManagement.DB.pdb
+C:\Users\TOSHIBA\source\repos\ProductManagement\ProductManagement.DB\obj\Debug\netcoreapp3.1\ProductManagement.DB.genruntimeconfig.cache
