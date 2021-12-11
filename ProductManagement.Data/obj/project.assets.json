@@ -5654,11 +5654,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TOSHIBA\\source\\repos\\ProductManagement\\product-management\\ProductManagement.Data\\ProductManagement.Data.csproj",
+      "projectUniqueName": "C:\\Users\\TOSHIBA\\Desktop\\Development\\ProductManagement.Data\\ProductManagement.Data.csproj",
       "projectName": "ProductManagement.Data",
-      "projectPath": "C:\\Users\\TOSHIBA\\source\\repos\\ProductManagement\\product-management\\ProductManagement.Data\\ProductManagement.Data.csproj",
+      "projectPath": "C:\\Users\\TOSHIBA\\Desktop\\Development\\ProductManagement.Data\\ProductManagement.Data.csproj",
       "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TOSHIBA\\source\\repos\\ProductManagement\\product-management\\ProductManagement.Data\\obj\\",
+      "outputPath": "C:\\Users\\TOSHIBA\\Desktop\\Development\\ProductManagement.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5679,8 +5679,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\TOSHIBA\\source\\repos\\ProductManagement\\product-management\\ProductManagement.DB\\ProductManagement.DB.csproj": {
-              "projectPath": "C:\\Users\\TOSHIBA\\source\\repos\\ProductManagement\\product-management\\ProductManagement.DB\\ProductManagement.DB.csproj"
+            "C:\\Users\\TOSHIBA\\Desktop\\Development\\ProductManagement.DB\\ProductManagement.DB.csproj": {
+              "projectPath": "C:\\Users\\TOSHIBA\\Desktop\\Development\\ProductManagement.DB\\ProductManagement.DB.csproj"
             }
           }
         }

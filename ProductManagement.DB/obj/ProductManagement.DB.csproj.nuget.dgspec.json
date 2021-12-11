@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TOSHIBA\\source\\repos\\ProductManagement\\product-management\\ProductManagement.DB\\ProductManagement.DB.csproj": {}
+    "C:\\Users\\TOSHIBA\\Desktop\\Development\\ProductManagement.DB\\ProductManagement.DB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TOSHIBA\\source\\repos\\ProductManagement\\product-management\\ProductManagement.DB\\ProductManagement.DB.csproj": {
+    "C:\\Users\\TOSHIBA\\Desktop\\Development\\ProductManagement.DB\\ProductManagement.DB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TOSHIBA\\source\\repos\\ProductManagement\\product-management\\ProductManagement.DB\\ProductManagement.DB.csproj",
+        "projectUniqueName": "C:\\Users\\TOSHIBA\\Desktop\\Development\\ProductManagement.DB\\ProductManagement.DB.csproj",
         "projectName": "ProductManagement.DB",
-        "projectPath": "C:\\Users\\TOSHIBA\\source\\repos\\ProductManagement\\product-management\\ProductManagement.DB\\ProductManagement.DB.csproj",
+        "projectPath": "C:\\Users\\TOSHIBA\\Desktop\\Development\\ProductManagement.DB\\ProductManagement.DB.csproj",
         "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TOSHIBA\\source\\repos\\ProductManagement\\product-management\\ProductManagement.DB\\obj\\",
+        "outputPath": "C:\\Users\\TOSHIBA\\Desktop\\Development\\ProductManagement.DB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
