@@ -48,6 +48,7 @@ namespace ProductManagement
             services.AddDbContext<ProductDbContext>(item => item.UseSqlServer(Configuration.GetConnectionString("myconn")));
             services.AddScoped<IProductService, ProductService>();
             services.AddScoped<IImageService, ImageService>();
+            services.AddScoped<ITokenCreationService, JwtService>();
 
         }
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
